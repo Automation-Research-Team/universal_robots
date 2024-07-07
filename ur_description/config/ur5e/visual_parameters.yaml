@@ -1,7 +1,7 @@
 mesh_files:
   base:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/base.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/base.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
@@ -10,7 +10,7 @@ mesh_files:
 
   shoulder:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/shoulder.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/shoulder.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
@@ -19,7 +19,7 @@ mesh_files:
 
   upper_arm:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/upperarm.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/upperarm.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
@@ -29,7 +29,7 @@ mesh_files:
 
   forearm:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/forearm.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/forearm.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
@@ -38,7 +38,7 @@ mesh_files:
 
   wrist_1:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/wrist1.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/wrist1.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
@@ -48,7 +48,7 @@ mesh_files:
 
   wrist_2:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/wrist2.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/wrist2.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
@@ -58,7 +58,7 @@ mesh_files:
 
   wrist_3:
     visual:
-      mesh: "package://ur_description/meshes/ur5e/visual/wrist3.dae"
+      mesh: "package://ur_description/meshes/ur5e/visual/wrist3.stl"
       material:
         name: "LightGrey"
         color: "0.7 0.7 0.7 1.0"
